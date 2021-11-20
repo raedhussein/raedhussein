@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raedhussein
 - 👀 I’m interested in Open Source, DNS, VPN
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & Go
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
 
