@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @raedhussein
-- 👀 I’m interested in Open Source, DNS, VPN
-- 🌱 I’m currently learning Python & Go
+- 👀 I’m interested in Open Source, Computer Networks, The Internet, HTTP, DNS, VPN
+- 🌱 I’m currently learning Python, JavaScript & Go
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
 
 <!---
 raedhussein/raedhussein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
