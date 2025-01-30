@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raedhussein
 - 👀 I’m interested in Open Source, Computer Networks, The Internet, HTTP, DNS, VPN
-- 🌱 I’m currently learning Python, JavaScript & Go
+- 🌱 I’m currently learning JavaScript, Python & C++
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
